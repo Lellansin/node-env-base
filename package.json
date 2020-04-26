@@ -1,0 +1,20 @@
+{
+  "name": "env-base",
+  "version": "0.0.0",
+  "description": "To get clear env variables from default environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-env-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-env-base/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-env-base#readme"
+}
